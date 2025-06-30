@@ -19,7 +19,7 @@ padding: 6em
 ---
 
 ## About the Grace E. Barneburg Papers
-{% include feature/image.html objectid="d504rp627" width="75" %} 
+{% include feature/image.html objectid="d504rp627" width="50" %} 
 
 Grace Elizabeth Barneberg was born in San Luis Obispo, California on September 24, 1876, the daughter of Sarah E. Barneberg (1857-1936) and John Wesley Barneberg (1851-1930). She attended San Luis Obispo High School, graduating in 1897. She received her A.B. in History from Stanford University in 1901 and a high school teaching credential from the University of California, Berkeley in 1902.
 
