@@ -10,7 +10,7 @@
 # site domain, full URL to the production location of your collection
 url: https://cburns39.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: barneburg_cb
+baseurl: barneberg_cb
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 
@@ -18,23 +18,23 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Grace E. Barneburg Papers
+title: Grace E. Barneberg Papers
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: A digital collection built using static web technology
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This collection is from the Cal Poly Kennedy Library Special Collections & Archives"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: san luis obispo; history; central coast; california central coast; grace e. barneburg
+keywords: san luis obispo; history; central coast; california central coast; grace e. barneberg
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Kennedy Library Digital Projects Lab and Special Collections & Archives
+author: Special Collections and Archives and Digital Projects Lab, California Polytechnic State University, San Luis Obispo
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: barneburg_metadata
+metadata: barneberg_metadata
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
@@ -50,7 +50,7 @@ metadata: barneburg_metadata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Cal Poly Kennedy Library Special Collections & Archives"
+organization-name: "Special Collections and Archives, California Polytechnic State University, San Luis Obispo"
 organization-link: https://lib.calpoly.edu/teams/special-collections-and-archives/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
