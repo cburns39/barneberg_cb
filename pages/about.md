@@ -20,9 +20,6 @@ padding: 6em
 
 ## About the Grace E. Barneberg Papers
 {% include feature/image.html objectid="d504rp627" width="50" %} 
-The following background was taken from the Grace E. Barneberg collection guide created by Cal Poly Special Collections and Archives.
-
-"Grace E. Barneberg Papers, 1912-1953," Special Collections and Archives, California Polytechnic State University, San Luis Obispo, accessed July 1, 2025, https://oac.cdlib.org/findaid/ark:/13030/c8tq632m/entire_text/.
 
 Grace Elizabeth Barneberg was born in San Luis Obispo, California on September 24, 1876, the daughter of Sarah E. Barneberg (1857-1936) and John Wesley Barneberg (1851-1930). She attended San Luis Obispo High School, graduating in 1897. She received her A.B. in History from Stanford University in 1901 and a high school teaching credential from the University of California, Berkeley in 1902.
 
@@ -32,6 +29,10 @@ In addition to her local civic duties, Barneberg lectured throughout California 
 Remaining unmarried, she assisted her parents in raising her niece and nephew. She died on February 23, 1970.
 
 This collection documents Grace Barneberg's official activities as president of San Luis Obispo's Monday Club and activities in regional and statewide women's and service organizations, including the California State Hospital Libraries, San Luis Obispo Free Public Library, Board of Women's Prisons, San Luis Obispo Dental Clinic, San Luis Obispo Mitchell Park, County Health Center, and the Red Cross. The collection is comprised of correspondence, organizational records, legal documents, newspaper clippings, photographs, and ephemera. Also included are Barneberg family records.
+
+The above background was taken from the Grace E. Barneberg collection guide created by Cal Poly Special Collections and Archives:
+
+> "Grace E. Barneberg Papers, 1912-1953," Special Collections and Archives, California Polytechnic State University, San Luis Obispo, accessed July 1, 2025, https://oac.cdlib.org/findaid/ark:/13030/c8tq632m/entire_text/.
 
 ## About CollectionBuilder CSV
 
